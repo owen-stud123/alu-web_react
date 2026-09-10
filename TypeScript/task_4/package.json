@@ -1,0 +1,7 @@
+{
+  "name": "typescript-task-4",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "build": "tsc --noEmit" },
+  "devDependencies": { "typescript": "^5.4.5" }
+}
