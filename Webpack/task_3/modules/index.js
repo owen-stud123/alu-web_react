@@ -1,3 +1,7 @@
-export const taskName = 'Webpack task 3';
+import { initHeader } from './header/header';
+import { initBody } from './body/body';
+import { initFooter } from './footer/footer';
 
-console.log(taskName);
+initHeader();
+initBody();
+initFooter();

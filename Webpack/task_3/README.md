@@ -1,3 +1,3 @@
 # Webpack Task 3
 
-Standalone Webpack development project with separate assets and modules, development-server support, and tree-shaking configuration.
+Webpack development project split into header, body, and footer modules under `modules/`, each with its own CSS, bundled from `modules/index.js` with tree-shaking configuration (`sideEffects`/`usedExports`), an auto-generated `dist/index.html`, and a dev server. Run `npm install`, then `npm run build` or `npm start`.
