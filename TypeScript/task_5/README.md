@@ -1,3 +1,3 @@
 # TypeScript Task 5
 
-Standalone TypeScript project foundation for the sixth exercise.
+Uses branded interfaces (`MajorCredits`/`MinorCredits`) to achieve nominal typing so credit types can't be mixed, with `sumMajorCredits`/`sumMinorCredits` summing subject credits. Run `npm install`, then `npm run build`.

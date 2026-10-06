@@ -1,3 +1,3 @@
 # TypeScript Task 4
 
-Standalone TypeScript project foundation for the fifth exercise.
+A `Subjects` namespace split across files, using declaration merging to extend the `Teacher` interface per subject (`Cpp`, `Java`, `React`) that each extend a base `Subject` class. Compile with `tsc`.

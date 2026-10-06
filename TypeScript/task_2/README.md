@@ -1,3 +1,3 @@
 # TypeScript Task 2
 
-Standalone TypeScript project foundation for the third exercise.
+`Director`/`Teacher` classes implementing their interfaces, a `createEmployee` factory, an `isDirector` type predicate with `executeWork`, and a `Subjects` string-literal type with `teachClass`. Run `npm install`, then `npm run build`.
